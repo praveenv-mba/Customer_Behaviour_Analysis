@@ -141,10 +141,11 @@ Based on data insights, the following recommendations were proposed:
 ## 📬 Contact
 
 **Author:** Praveen V
+
 **Email:** praveenbrayanir.com
+
 **LinkedIn:** https://linkedin.com/in/praveen-v-11653b22b
+
 **Portfolio:** https://github.com/praveenv-mba
 
 ---
-
-Would you like me to include a **“Project Folder Structure”** section (showing where scripts, data, and reports are stored)? It can make your README even more professional for recruiters.
